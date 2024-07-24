@@ -15,10 +15,19 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React.js-000?&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![SQLServer](https://img.shields.io/badge/-SQLServer-000?&logo=MicrosoftSQLServer)
+
+### Services
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=AmazonAWS)
+![REST API](https://img.shields.io/badge/-RESTAPI-000?&logo=RESTAPI)
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
@@ -35,6 +44,9 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 ### Other Tools
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
